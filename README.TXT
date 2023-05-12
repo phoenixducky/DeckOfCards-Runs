@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This Project was originaly made in BlueJ and contains 3 programs with different concepts
+THe first is the DeckOfCards class with Card and Driver along with it. It is supposed to be a program that mimics a deck of cards, the driver class tests the function of the Classes.
+The second is EveryRun, which marks in parenthesis every run( 2 or more numbers in a row) in a list of 20 randomly generated numbers from 1-6
+The third is LongestRun, which marks the longest run in the list of 20 randomly generated numbers 1-6
